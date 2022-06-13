@@ -1,0 +1,1 @@
+print((lambda e,m,h,n: e and m and h and e+m+h>=n and n>2)(*map(int,input().split()))and"YES"or"NO")

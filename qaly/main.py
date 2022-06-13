@@ -1,0 +1,1 @@
+print(sum(float.__mul__(*map(float, input().split()))for i in range(int(input()))))

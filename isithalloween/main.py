@@ -1,0 +1,1 @@
+print(input()in["OCT 31","DEC 25"]and"yup"or"nope")

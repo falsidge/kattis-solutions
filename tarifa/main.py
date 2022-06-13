@@ -1,0 +1,1 @@
+print((lambda m: m + sum(m - int(input()) for i in range(int(input()))))(int(input())))
